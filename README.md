@@ -1,2 +1,2 @@
 # hello-world
-Say hello to the world
+I am an IT student at UMass Lowell. I like C, Python, SQL, and the Oxford Comma.
